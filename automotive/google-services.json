@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "251839653216",
+    "project_id": "speedmonitor-33940",
+    "storage_bucket": "speedmonitor-33940.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251839653216:android:46f993ddcf1b5c30f8ea05",
+        "android_client_info": {
+          "package_name": "com.example.speedmonitor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG0wv7iz5RA6Pb4YBXoJI-dAky662CyOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
